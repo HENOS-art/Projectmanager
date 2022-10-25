@@ -16,7 +16,7 @@ function App() {
           <NewProject path = "/projects/new"/>
           
         
-      </Router> 
+      </Router>
     </div> 
   );
 }
